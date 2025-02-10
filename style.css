@@ -1,0 +1,25 @@
+body {
+    font-size: 14px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+    font-family: "Comic Sans MS"; 
+    color: hotpink;
+    background-color: pink ;
+    text-align: center;
+  }
+
+img {
+    display: block;
+    margin: auto;
+    border: 5px solid hotpink;
+    border-radius: 50%;
+  }
+
+div.container {
+    text-align: center;
+  }
+
+ul.list {
+    list-style-position: outside;
+    display: inline-block;
+    text-align: left;
+  }
+  
